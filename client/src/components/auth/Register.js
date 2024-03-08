@@ -204,7 +204,7 @@ const Register = () => {
           </div>  
           {showSuccessDialog && (
               <div className='mt-4 bg-green-200 p-4 rounded-md ' >
-                  Registration successful! Redirecting...
+                  Registration successful! Welcome mail has been send to you. Redirecting...
               </div>
           )}
       </div>   
